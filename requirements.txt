@@ -1,0 +1,6 @@
+mxnet-cu101mkl
+scikit-learn
+numpy
+scipy>=0.18.1
+openml
+pmlb
